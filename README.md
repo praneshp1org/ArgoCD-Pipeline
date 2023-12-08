@@ -17,6 +17,10 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 ```
 </br>
 
+![Screenshot1](ss/1.png)
+![Screenshot2](ss/2.png)
+
+
 #### Links
 
 * Config repo: [https://github.com/praneshp1org/ArgoCD-Pipeline.git](https://github.com/praneshp1org/ArgoCD-Pipeline.git)
